@@ -6,14 +6,18 @@ Course: Platform Programming
 Lecturer: Alun Sujjada, S.Kom, M.T  
 
 ### Project Developers
-[Akmal Zaidan Hibatullah](https://instagram.com/m4mayz)  
+Akmal Zaidan Hibatullah [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][1]  
 NIM.20230040065  
 
-[Wardan Nugraha Ahmad](https://instagram.com/wardannugraha)  
+Wardan Nugraha Ahmad [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][2]  
 NIM.20230040071  
 
-[Siti Nur Kamila](https://instagram.com/me_laaa09)  
+Siti Nur Kamila [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][3]  
 NIM.20230040061
+
+[1]: https://instagram.com/m4mayz
+[2]: https://instagram.com/wardannugraha
+[3]: https://instagram.com/me_laaa09
 
 # Documentation
 # Report
