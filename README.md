@@ -1,7 +1,7 @@
 <h1 align="center"> MovieVerse API </h1>
 <p align="center">
     <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-    <img src="https://forthebadge.com/images/badges/made-with-love__.svg">
+    <!-- <img src="https://forthebadge.com/images/badges/made-with-love__.svg"> -->
     <img src="https://forthebadge.com/images/badges/works-on-my-machine-1.svg">
 </p>
 
@@ -20,13 +20,13 @@ Lecturer: Alun Sujjada, S.Kom, M.T
 
 The most handsome and beautiful students in class TI23T.
 
-Akmal Zaidan Hibatullah | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][1]  
+Akmal Zaidan Hibatullah | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg)][1]  
 NIM.20230040065
 
-Wardan Nugraha Ahmad | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][2]  
+Wardan Nugraha Ahmad | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg)][2]  
 NIM.20230040071
 
-Siti Nur Kamila | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/instagram.svg)][3]  
+Siti Nur Kamila | [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/colored/instagram.svg)][3]  
 NIM.20230040061
 
 [1]: https://instagram.com/m4mayz
