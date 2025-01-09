@@ -11,8 +11,7 @@ This project will allow users to search for movies, view detailed information ab
 
 ## Purpose
 
-This project was made to fulfill the <a href="https://drive.google.com/file/d/1SYjuFAnK56XinI_LDl15wTajsbFjkQX9/view?usp=drive_link" target="_blank">Final Exam Project.</a>
-
+This project was made to fulfill the [Final Exam Project](https://drive.google.com/file/d/1SYjuFAnK56XinI_LDl15wTajsbFjkQX9/view?usp=drive_link)  
 Course: Platform Programming  
 Lecturer: Alun Sujjada, S.Kom, M.T
 
@@ -35,10 +34,10 @@ NIM.20230040061
 
 # API Documentation
 
-You can read the API documentation on the <a href="https://documenter.getpostman.com/view/40816838/2sAYQUqECL" target="_blank">following page.</a>
+You can read the API documentation on the [following page.](https://documenter.getpostman.com/view/40816838/2sAYQUqECL)
 
 # Demo Presentation
 
-You can see our presentation slides <a href="" target="_blank">here.</a>
+You can see our presentation slides [here.]()
 
 # Report
