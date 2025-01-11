@@ -4,9 +4,9 @@ require("dotenv").config();
 
 const userRoutes = require("./routes/userRoutes");
 const movieRoutes = require("./routes/movieRoutes");
-// const watchlistRoutes = require('./routes/watchlistRoutes');
-// const reviewRoutes = require('./routes/reviewRoutes');
-// const searchHistoryRoutes = require('./routes/searchHistoryRoutes');
+const watchlistRoutes = require("./routes/watchlistRoutes");
+const reviewRoutes = require("./routes/reviewRoutes");
+const searchRoutes = require("./routes/searchRoutes");
 
 const app = express();
 
@@ -18,9 +18,9 @@ app.use(express.urlencoded({ extended: true }));
 // Routes
 app.use("/api/users", userRoutes);
 app.use("/api/movies", movieRoutes);
-// app.use("/api/watchlist", watchlistRoutes);
-// app.use("/api/reviews", reviewRoutes);
-// app.use("/api/search-history", searchHistoryRoutes);
+app.use("/api/watchlist", watchlistRoutes);
+app.use("/api/reviews", reviewRoutes);
+app.use("/api/search-history", searchRoutes);
 
 // Error handling middleware
 app.use((err, req, res, next) => {

@@ -7,7 +7,7 @@ const { verifyToken } = require("../middleware/authMiddleware");
 router.post("/signup", userController.signup);
 router.post("/login", userController.login);
 
-// Protected routes
+// Routes need authentication
 router.get("/:id/profile", verifyToken, userController.getProfile);
 router.put("/:id/profile", verifyToken, userController.updateProfile);
 
