@@ -1,8 +1,16 @@
 <h1 align="center"> MovieVerse API </h1>
 <p align="center">
-    <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-    <!-- <img src="https://forthebadge.com/images/badges/made-with-love__.svg"> -->
-    <img src="https://forthebadge.com/images/badges/works-on-my-machine-1.svg">
+    <a href="https://www.npmjs.com/package/node"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+</p>
+<p align="center">
+    <a href="https://www.npmjs.com/package/cors"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/cors?color=blue" alt="Package - cors"></a>
+    <a href="https://www.npmjs.com/package/axios"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/axios?color=blue" alt="Package - axios"></a>
+    <a href="https://www.npmjs.com/package/bcryptjs"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/bcryptjs?color=blue" alt="Package - bcryptjs"></a>
+    <a href="https://www.npmjs.com/package/dotenv"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/dotenv?color=blue" alt="Package - dotenv"></a>
+    <a href="https://www.npmjs.com/package/jsonwebtoken"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/jsonwebtoken?color=blue" alt="Package - jsonwebtoken"></a>
+    <a href="https://www.npmjs.com/package/mysql2"><img src="https://img.shields.io/github/package-json/dependency-version/m4mayz/MovieVerse/mysql2?color=blue" alt="Package - mysql2"></a>
+
 </p>
 
 ## Introduction
@@ -39,3 +47,5 @@ You can read the API documentation on the [following page.](https://documenter.g
 You can see our presentation slides [here.]()
 
 # Report
+
+You can read all of the reports of this REST API Project [here.](./reports/report.md)
