@@ -6,11 +6,12 @@
 
 1. [Introduction](#introduction)
 2. [Database Design](#database-design)
-3. [API Documentation](#api-documentation)
-4. [Public API Integration](#public-api-integration)
-5. [Authentication & Middleware](#authentication--middleware)
-6. [Testing Results](#testing-results)
-7. [End of Report](#end-of-report)
+3. [Packages](#packages)
+4. [API Documentation](#api-documentation)
+5. [Public API Integration](#public-api-integration)
+6. [Authentication & Middleware](#authentication--middleware)
+7. [Testing Results](#testing-results)
+8. [End of Report](#end-of-report)
 
 ## Introduction
 
