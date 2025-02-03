@@ -44,7 +44,7 @@ You can read the API documentation on the [following page.](https://documenter.g
 
 # Demo Presentation
 
-You can see our presentation slides [here.]()
+You can see our presentation slides [here.](https://docs.google.com/presentation/d/10aZ0tZ67b975vYso829QsSB1DM5iRtCo/edit?usp=sharing&ouid=113944588885160444566&rtpof=true&sd=true)
 
 # Report
 
